@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "tcw_thecrsimsonmod:blocks/crimson_gem_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tcw_thecrsimsonmod:crimson_gem_block"
+        }
+      ]
+    }
+  ]
+}

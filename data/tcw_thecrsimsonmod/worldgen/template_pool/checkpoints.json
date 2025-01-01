@@ -1,0 +1,29 @@
+{
+  "name": "tcw_thecrsimsonmod:checkpoints",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "tcw_thecrsimsonmod:xirine-beacon-ruin",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:block_ignore",
+              "blocks": [
+                {
+                  "Name": "minecraft:structure_block"
+                },
+                {
+                  "Name": "minecraft:grass"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

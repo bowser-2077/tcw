@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "tcw_thecrsimsonmod:crimson_gem"
+    }
+  },
+  "result": {
+    "item": "tcw_thecrsimsonmod:crimson_gem_block",
+    "count": 1
+  }
+}

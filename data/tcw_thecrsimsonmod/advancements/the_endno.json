@@ -1,0 +1,39 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "tcw_thecrsimsonmod:crimson_gem"
+    },
+    "title": {
+      "translate": "advancements.the_endno.title"
+    },
+    "description": {
+      "translate": "advancements.the_endno.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_endno_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "minecraft:the_nether"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10,
+    "recipes": [
+      "tcw_thecrsimsonmod:crimson_gem_ore_block_recipe",
+      "tcw_thecrsimsonmod:crimson_gem_block_ore_recipe",
+      "tcw_thecrsimsonmod:crimson_gem_ore_smelting",
+      "tcw_thecrsimsonmod:crimson_pickaxe_recipe",
+      "tcw_thecrsimsonmod:crimson_axe_recipe",
+      "tcw_thecrsimsonmod:crimson_sword_recipe",
+      "tcw_thecrsimsonmod:crimson_shovel_recipe",
+      "tcw_thecrsimsonmod:crimson_hoe_recipe"
+    ]
+  }
+}

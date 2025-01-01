@@ -1,0 +1,73 @@
+{
+  "has_precipitation": false,
+  "temperature": 2,
+  "downfall": 0,
+  "effects": {
+    "music": {
+      "sound": "ambient.basalt_deltas.loop",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "soul"
+      },
+      "probability": 0.001
+    },
+    "foliage_color": -9085892,
+    "grass_color": -52480,
+    "sky_color": -39322,
+    "fog_color": -39322,
+    "water_color": -8487298,
+    "water_fog_color": -10329502
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "blaze",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "wither_skeleton",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "hoglin",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [
+      "minecraft:forest_rock"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "tcw_thecrsimsonmod:crimson_biome_tree"
+    ],
+    []
+  ]
+}

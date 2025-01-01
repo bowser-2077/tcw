@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tcw_thecrsimsonmod:crimson_gem_block"
+    }
+  ],
+  "result": {
+    "item": "tcw_thecrsimsonmod:crimson_gem",
+    "count": 9
+  }
+}
