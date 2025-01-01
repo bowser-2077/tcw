@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tcw_thecrsimsonmod:block/crimsongem_ore",
+    "particle": "tcw_thecrsimsonmod:block/crimsongem_ore"
+  },
+  "render_type": "solid"
+}

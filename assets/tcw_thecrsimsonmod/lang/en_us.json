@@ -1,0 +1,19 @@
+{
+  "item.tcw_thecrsimsonmod.crimson_shovel": "Crimson Shovel",
+  "entity.minecraft.villager.tcw_thecrsimsonmod.crimson_trader": "Crimson Trader",
+  "item.tcw_thecrsimsonmod.crimson_sword": "Crimson Sword",
+  "advancements.long_way_to_end.descr": "Get your 1st crimson dust",
+  "item.tcw_thecrsimsonmod.crimson_axe": "Crimson Axe",
+  "advancements.the_endno.title": "Lets go back...",
+  "item.tcw_thecrsimsonmod.crimson_gem": "CrimsonGem",
+  "effect.tcw_thecrsimsonmod.infected": "Infected By Meteor Ashes",
+  "block.tcw_thecrsimsonmod.crimson_gem_block": "Block of CrimsonGem",
+  "block.tcw_thecrsimsonmod.crimson_gem_ore": "CrimsonGem Ore",
+  "advancements.long_way_to_end.title": "A Long Way To End",
+  "item.tcw_thecrsimsonmod.crimson_pickaxe": "Crimson Pickaxe",
+  "advancements.gettin_in.title": "Gettin In",
+  "advancements.the_endno.descr": "Lets go back to hell, but, nether is not?",
+  "advancements.gettin_in.descr": "Welcome to hell",
+  "biome.tcw_thecrsimsonmod.crimson_biome": "Crimson Biome",
+  "item.tcw_thecrsimsonmod.crimson_hoe": "Crimson Hoe"
+}
